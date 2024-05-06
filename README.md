@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nemokanchan
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning python
 -  📫 How to reach me kanchandhamala1@gmail.com
 
 <!---
